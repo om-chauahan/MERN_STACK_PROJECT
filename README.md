@@ -380,7 +380,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **CHAUHAN OM**
 - GitHub: [@chauhanom](https://github.com/chauhanom)
-- Email: chauhan.om@example.com
+- Email: chauhanom1312@gmail.com
 - LinkedIn: [Om Chauhan](https://linkedin.com/in/omchauhan)
 
 ## 🙏 Acknowledgments
@@ -392,7 +392,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email chauhan.om@example.com or create an issue in the GitHub repository.
+For support, email chauhanom1312@gmail.com or create an issue in the GitHub repository.
 
 ---
 
